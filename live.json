@@ -1,0 +1,10 @@
+{
+  "sites": [
+    {
+      "key": "zbds_live",
+      "name": "我的直播",
+      "type": 2,
+      "api": "https://live.zbds.top/tv/iptv4.m3u"
+    }
+  ]
+}
